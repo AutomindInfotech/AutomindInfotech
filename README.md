@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://automindinfotech.com/newsite2/">🌐 Website</a> •
   <a href="https://www.linkedin.com/company/automind-infotech-pvt-ldt/posts/?feedView=all">💼 LinkedIn</a> •
- <a href="mailto:contact@automindinfotech.com" target="_blank">📧 Contact Us</a></p>
-
+<!-- URL encoded version -->
+<a href="mailto:contact%40automindinfotech.com">📧 Contact</a>
 ---
 
 ## 🏢 Company Overview
